@@ -1,5 +1,5 @@
 // --- ĐIỀN ĐỊA CHỈ IP LAPTOP CỦA BẠN VÀO ĐÂY ---
-const SERVER_IP = "192.168.1.48"; 
+const SERVER_IP = "<laptopIP>"; 
 const SERVER_PORT = 8765;
 const MODEL_URL = './yolo26n_web_model/model.json';
 
