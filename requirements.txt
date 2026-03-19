@@ -1,2 +1,8 @@
+# Bắt buộc cho mô hình AI YOLO
 ultralytics
+
+# Bắt buộc cho xử lý hình ảnh và hiển thị cửa sổ Camera
 opencv-python
+
+# Bắt buộc cho trạm thu dữ liệu Ngữ nghĩa (Mode 2)
+websockets
