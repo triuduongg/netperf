@@ -8,7 +8,7 @@
 ## chrome://flags/#unsafely-treat-insecure-origin-as-secure = `http://<laptopIP>:8889, http://<laptopIP>:8000`
 # Image Mode
 ## `./mediamtx`
-## `http://<laptopIP>:8889/<hostname>/publish` on Chrome
+## Chrome: `http://<laptopIP>:8889/<hostname>/publish`, video codec = `H264`
 ## `python station.py`
 ## `1`
 ## Source = `image = jpg, png, ...`, `video = mp4, avi, ...`, `link = http, rtsp, ...`, `rtsp://127.0.0.1:8554/<hostname>`
